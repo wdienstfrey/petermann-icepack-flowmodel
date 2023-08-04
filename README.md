@@ -4,9 +4,9 @@ Use icepack (Python finite element glacial flow model) to model dynamics of Pete
 
 
 ### Dependencies required for running the notebooks in this repository
-icepack () and firedrake () -- install instructions are provided here: https://icepack.github.io/install/
+Need icepack () and firedrake () -- install instructions are provided here: https://icepack.github.io/install/
 
-Need up to date versions of: numpy, matplotlib, xarray, rioxarray, rasterio, geojson, sys, os, glob
+Up to date versions of: numpy, matplotlib, xarray, rioxarray, rasterio, geojson, sys, os, glob
 
 
 
