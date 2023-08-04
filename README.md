@@ -15,7 +15,7 @@ All files except BedMachine can be found here: https://drive.google.com/drive/fo
 
 BedMachine and other file sources can be found here:
 
-BedMachine: https://nsidc.org/data/idbmg4/versions/5
+- BedMachine: https://nsidc.org/data/idbmg4/versions/5
 
 MEaSUREs: https://nsidc.org/grimp
 
