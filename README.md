@@ -1,5 +1,5 @@
 # petermann-icepack-flowmodel
-Use icepack (Python finite element glacial flow model) to model dynamics of Petermann Glacier, NW Greenland
+Use icepack (Python finite element glacial flow model developed by Daniel Shapero) to model dynamics of Petermann Glacier, NW Greenland. For questions about icepack refer to Daniel Shapero's github at https://github.com/icepack/icepack
 
 
 
