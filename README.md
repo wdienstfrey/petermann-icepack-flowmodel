@@ -3,7 +3,7 @@ Uses icepack (Python finite element glacial flow model developed by Daniel Shape
 
 
 
-## Important Note
+### Important Note
 These notebooks are IN DEVELOPMENT. No outputs from these notebooks should be considered reliable.
 
 
