@@ -3,6 +3,11 @@ Uses icepack (Python finite element glacial flow model developed by Daniel Shape
 
 
 
+### Important Note
+These notebooks are IN DEVELOPMENT. No outputs from these notebooks should be considered reliable.
+
+
+
 ### Dependencies required for running the notebooks in this repository
 Need icepack () and firedrake () -- install instructions are provided here: https://icepack.github.io/install/
 
